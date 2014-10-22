@@ -1,0 +1,892 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mongo",
+				"mongoMessage"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"mon",
+				"mongoMessage"
+			],
+			[
+				"messa",
+				"messageSchema"
+			],
+			[
+				"co",
+				"code"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"e",
+				"errorHandler"
+			],
+			[
+				"web",
+				"webPort"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"fr",
+				"fris"
+			],
+			[
+				"ge",
+				"getSize"
+			],
+			[
+				"c",
+				"container"
+			],
+			[
+				"get",
+				"getSizeFactory"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"ale",
+				"aleobold"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"marign",
+				"margin-bottom"
+			],
+			[
+				"da",
+				"dark-blue"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"blue",
+				"light-blue"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fad",
+				"fadeOut"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"window",
+				"windowOffset"
+			],
+			[
+				"Hel",
+				"Helvetica"
+			],
+			[
+				"scro",
+				"scrollTop"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"light",
+				"light-blue"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"secondray",
+				"secondary-color"
+			],
+			[
+				"transfo",
+				"transform"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"content",
+				"contentWrap"
+			],
+			[
+				"sec",
+				"secondary-green"
+			],
+			[
+				"grey",
+				"grey-blog"
+			],
+			[
+				"secon",
+				"secondary-blue"
+			],
+			[
+				"second",
+				"secondary-blue"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"margin-t",
+				"margin-bottom"
+			],
+			[
+				"asap",
+				"asapregular"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"as",
+				"asapbold"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"grey-",
+				"grey-blog"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"icon",
+				"icomoon"
+			],
+			[
+				"secondary",
+				"secondary-orange"
+			],
+			[
+				"mouse",
+				"mouseover"
+			],
+			[
+				"gr",
+				"grey-black"
+			],
+			[
+				"secondar",
+				"secondary-blue-hover"
+			],
+			[
+				"se",
+				"secondary-aqua-hover"
+			],
+			[
+				"gre",
+				"grey-lighter"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"seco",
+				"secondary-green"
+			],
+			[
+				"text-a",
+				"text-transform"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"secondaru",
+				"secondary-blue-hover"
+			],
+			[
+				"grey-li",
+				"grey-lighter"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"cor",
+				"color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"tex-",
+				"text-transform"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bro",
+				"border-left"
+			],
+			[
+				"borde",
+				"border-collapse"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"workExapl",
+				"workExamples"
+			],
+			[
+				"work",
+				"workLarge"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"com",
+				"commonFuncts"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 1444,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"disp",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"dis",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"displ",
+				"Coffee: Display JavaScript"
+			],
+			[
+				"",
+				"Coffee: Display Lexer Tokens"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 163.0,
+		"history":
+		[
+			"os.environ['PATH']",
+			"import os",
+			"os.environ['PATH']",
+			"import os",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"list(map(chr, [0x55, 0x53, 0x44]))",
+			"sublime.executable_path()",
+			"view.file_name()",
+			"sublime.executable_path()",
+			"import sublime"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/danieljones/Work/~Learning/MultiVision"
+	],
+	"file_history":
+	[
+		"/Users/danieljones/WebstormProjects/d3/node_modules/foundation/README.md",
+		"/Users/danieljones/Work/~Learning/grunting-from-memory/package.json",
+		"/Users/danieljones/Work/flomio/landingPage2/html/bower_components/foundation/scss/app.scss",
+		"/Users/danieljones/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/danieljones/Work/~Learning/grunting-from-memory/Gruntfile.coffee.js",
+		"/Users/danieljones/Work/~Learning/D3/www/PlsRemindMe.Web/BundleTransformer.Configuration.xsd",
+		"/Users/danieljones/Work/~Learning/D3/node_modules/grunt/internal-tasks/bump.js",
+		"/Users/danieljones/Work/~Learning/D3/source/grunt-introduction/2-m2-grunt-javascript-exercise-files/Source/Clean/www/PlsRemindMe.Web/App_Start/BundleConfig.cs",
+		"/Users/danieljones/Work/~Learning/D3/source/grunt-introduction/2-m2-grunt-javascript-exercise-files/Source/Clean/www/PlsRemindMe.Web/BundleTransformer.Configuration.xsd",
+		"/Users/danieljones/Work/~Learning/D3/www/PlsRemindMe.Web/App_Start/BundleConfig.cs",
+		"/Users/danieljones/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/modernizr/modernizr.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/MIT-LICENSE.txt",
+		"/Users/danieljones/Work/~Learning/D3/css/app.css",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/jquery/src/attributes/prop.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/js/jquery/src/attributes/prop.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/js/app.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/action/append.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/jquery/src/attributes/support.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/css/app.css",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/scss/app.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/argument_parser.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/archive.php",
+		"/Users/danieljones/Library/Application Support/Sublime Text 3/Packages/User/User.sublime-settings",
+		"/Users/danieljones/Library/Application Support/Sublime Text 3/Packages/User/HTML.sublime-settings",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/header.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/parts/off-canvas-menu.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/scss/site/_structure.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/functions.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/single-projects.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/single-services-home.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/single-services.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/single.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/parts/prefooter.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/home.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/single-contact-us.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/projects.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/page-full.php",
+		"/Users/danieljones/Work/RippleBox/derp.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/scss/config/_settings.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/parts/sharing.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/library/menu-walker.php",
+		"/Users/danieljones/Work/westernServices/html/dest/index.html",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/Gruntfile.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/js/custom/wswa.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/library/enqueue-scripts.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/foundation/scss/foundation/components/_buttons.scss",
+		"/Users/danieljones/Work/westernServices/html/bower_components/foundation/scss/foundation/components/_buttons.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/js/custom/joyride-demo.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/js/custom/init-foundation.js",
+		"/Users/danieljones/Work/westernServices/html/bower_components/foundation/js/app.coffee",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/scss/config/_variables.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/library/navigation.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/parts/top-bar.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/index.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/foundation/scss/foundation.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/foundation/scss/foundation/components/_fonts.scss",
+		"/Users/danieljones/Work/westernServices/html/bower_components/foundation/scss/app.scss",
+		"/Users/danieljones/Work/westernServices/html/bower_components/foundation/scss/foundation/_settings.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/page-full-home.php",
+		"/Users/danieljones/Work/westernServices/foundationPress/Gruntfile.js",
+		"/Users/danieljones/Work/westernServices/foundationPress/js/app.js",
+		"/Users/danieljones/Work/westernServices/html/bower_components/foundation/scss/foundation.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/foundation/scss/foundation/components/_mixins.scss",
+		"/Users/danieljones/Work/westernServices/foundationPress/scss/app.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/scss/config/_colors.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/bower_components/foundation/scss/foundation/components/_icon-bar.scss",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/hero.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/style.css",
+		"/Users/danieljones/Work/westernServices/foundationPress/scss/site/_structure.scss",
+		"/Users/danieljones/Work/westernServices/html/Gruntfile.js",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/sidebar.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/WSWA/footer.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/plugins/wp-orbit-slider/wp-orbit-slider.pot",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/twentytwelve/style.css",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/twentytwelve/page.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/twentytwelve/page-templates/full-width.php",
+		"/Users/danieljones/Work/westernServices/html/WP/wp-content/themes/twentytwelve/header.php",
+		"/Users/danieljones/Work/invoices/298_MacDux.html",
+		"/Users/danieljones/Work/flomio/landingPage2/source/template-home-parallax.php",
+		"/Users/danieljones/Work/flomio/landingPage/source/template-home-parallax.php",
+		"/Users/danieljones/Work/flomio/landingPage/html/dest/index.html",
+		"/Users/danieljones/Work/invoices/300_WSWA.html",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/skrollr/skrollr-colours.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/skrollr/skrollr.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/src/index.liquid",
+		"/Users/danieljones/Work/flomio/landingPage/html/src/includes/layout.liquid",
+		"/Users/danieljones/Work/flomio/landingPage/html/Gruntfile.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/skrollr-colours.min.js",
+		"/Users/danieljones/Work/peakStays/foundation5/assets/scss/animate.scss",
+		"/Users/danieljones/Downloads/parallax-part-2/index.html",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/scss/foundation/components/_fonts.scss",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/scss/foundation.scss",
+		"/Users/danieljones/Work/flomio/landingPage/html/src/includes/scripts.liquid",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/js/app.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/js/main.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/scss/app.scss",
+		"/Users/danieljones/Downloads/parallax-part-2/css/main.css",
+		"/Users/danieljones/Work/flomio/landingPage/html/src/includes/header.liquid",
+		"/Users/danieljones/Downloads/parallax-part-2/js/_main.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/scss/foundation/components/_buttons.scss",
+		"/Users/danieljones/Work/flomio/landingPage/html/dest/js/app.min.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/dest/js/scripts/app.min.js",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/js/app.coffee",
+		"/Users/danieljones/Downloads/one-page-scroll-animations/index.html",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/scss/foundation/components/_top-bar.scss",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/foundation/scss/foundation/_settings.scss",
+		"/Users/danieljones/Work/flomio/landingPage/html/src/includes/footer.liquid",
+		"/Users/danieljones/Work/flomio/landingPage/html/bower_components/skrollr/skrollr.min.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"count_min",
+			"{}",
+			",",
+			": ",
+			"process",
+			"stdout",
+			"spawn",
+			"_",
+			"matchdep",
+			"        options:\n          livereload: true\n",
+			"false",
+			"fsdfs",
+			"backspace",
+			"compression",
+			"compress",
+			"errorHandler",
+			"express",
+			"      :",
+			"html",
+			"Task",
+			"install",
+			"function",
+			"main",
+			"globs",
+			"command",
+			"grunt",
+			"      }\n",
+			"      }",
+			"      }\n",
+			" ",
+			"\n      ",
+			"      }",
+			"}\n",
+			"src",
+			"common",
+			"},\n",
+			"/js/*/",
+			".Web/js/",
+			"all",
+			"viewModels",
+			"common",
+			"js/_output",
+			"2",
+			"return",
+			"dom",
+			"$",
+			"width",
+			"data",
+			"  \n",
+			"off-",
+			"trans",
+			"menu-off-canvasexit",
+			"menu-off-canvas",
+			"close",
+			"menu",
+			"close",
+			"li ",
+			"add",
+			"this",
+			");\n",
+			"func",
+			";\n",
+			"\n\"",
+			"()",
+			"12",
+			"');\n",
+			"));",
+			"'",
+			"figure",
+			"quoteForm",
+			"form ",
+			"form",
+			"form ",
+			"form",
+			"span ",
+			"service",
+			"services",
+			"aleobold",
+			"p {",
+			"servic",
+			"#000",
+			"content-page",
+			"quoteF",
+			"section.quote",
+			"section.qoute",
+			"general-column",
+			"general-co",
+			"goog",
+			".main-nav ul",
+			"main-nav ul",
+			"ul.menu",
+			"menu",
+			"content-p",
+			"content",
+			"button",
+			"quoteFor",
+			"quoteF",
+			"quote",
+			"sharing",
+			"home-share",
+			"home-column",
+			"content-",
+			"project",
+			"home",
+			"testimonials",
+			"button",
+			"button, .button",
+			"button",
+			"Product",
+			"menu",
+			"menu-off-canvas",
+			"menu",
+			"off-canvas",
+			"exit-off-canvas",
+			"fonts",
+			"assets",
+			"icons",
+			".home-column",
+			"twentytwelve",
+			"Twenty Twelve",
+			"home",
+			"webSeriv",
+			"see",
+			"#!/",
+			"homeSlide",
+			"centerSecondFrame",
+			"skroll",
+			"#slide-4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$dark-blue",
+			"#main-nav ul",
+			".main-nav ul",
+			"main-nav ul",
+			"Testimonial",
+			"../fonts",
+			"WSWA",
+			"../images",
+			"$yellow",
+			"",
+			"region_mountains",
+			"key",
+			"className",
+			"",
+			"medium-4",
+			"medium-3",
+			"velocity()",
+			"../../",
+			"<div class=\"columns small-1 hide-for-medium-up\">\n                  <a class=\"green expandSection closed\"></a>\n                </div>",
+			"&rsquo;",
+			"&lsqou;",
+			"color:#BBB;",
+			"Yumi's",
+			"Stevens",
+			"13px",
+			"Arial",
+			"@include column(",
+			"@include column",
+			"1_5"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1444,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1024,
+								1024
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 44.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "multivision.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"notes",
+				"~/Work/~Learning/grunting-from-memory/notes.txt"
+			],
+			[
+				"bundlecon",
+				"www/PlsRemindMe.Web/App_Start/BundleConfig.cs"
+			],
+			[
+				"month",
+				"~/Work/~Learning/D3/monthlySales.json"
+			],
+			[
+				"app.js",
+				"~/Work/~Learning/D3/js/app.js"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"",
+				"templates/includes/scripts.liquid"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
