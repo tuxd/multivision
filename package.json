@@ -10,6 +10,10 @@
     "type": "git",
     "url": "MultiVision"
   },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "2.1.x"
+  },
   "author": "Dan Jones",
   "license": "ISC",
   "devDependencies": {
